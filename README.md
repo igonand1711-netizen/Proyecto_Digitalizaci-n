@@ -414,31 +414,7 @@ También podrían desarrollarse sistemas capaces de ajustar automáticamente los
 
 No obstante, será necesario garantizar la seguridad de los sistemas, proteger los datos y mantener la supervisión humana en las decisiones importantes.
 
-## 10. Reflexión final
-
-Después de realizar este proyecto, considero que la transformación digital y la Inteligencia Artificial son fundamentales para el futuro de las empresas.
-
-La tecnología permite mejorar los procesos de fabricación, reducir costes, evitar errores y facilitar la toma de decisiones.
-
-En el caso de Conservas Bahía de Cádiz, la combinación de sensores IoT, visión artificial, mantenimiento predictivo y sistemas de gestión empresarial permitiría transformar una empresa tradicional en una industria más moderna, eficiente y competitiva.
-
-También considero que la IA no debe entenderse como un sustituto completo de los trabajadores, sino como una herramienta que facilita sus tareas y mejora sus capacidades.
-
-En conclusión, las empresas que sepan adaptarse a los avances tecnológicos tendrán mayores oportunidades de crecimiento y podrán responder mejor a los retos del futuro.
-
-## 11. Conclusiones
-
-Con este proyecto hemos comprobado que la digitalización debe abarcar todas las áreas de una empresa.
-
-No basta con automatizar las máquinas de una fábrica: también es necesario mejorar la administración, la gestión de clientes, el almacenamiento de información y la planificación de la producción.
-
-La integración de IT y OT permite conectar todos estos procesos y aprovechar mejor la información generada.
-
-La Inteligencia Artificial representa una oportunidad importante para el sector agroalimentario, ya que permite mejorar la calidad, reducir costes y aumentar la competitividad.
-
-Por tanto, la transformación digital es una inversión estratégica para garantizar el crecimiento y la adaptación de las empresas a las nuevas necesidades del mercado.
-
-## 12. Fuentes de información y bibliografía
+## 10. Fuentes de información y bibliografía
 
 - [IES Rafael Alberti - Proyecto 1: Diseño de la transformación digital de un sector usando IA](https://ies-rafael-alberti.github.io/digitalizacion-gs/docs/proyectos/proyecto1/)
 - [OCDE - Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence (2025)](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-2_3ac96d41-en.html)
@@ -448,6 +424,6 @@ Por tanto, la transformación digital es una inversión estratégica para garant
 
 ---
 
-**Proyecto realizado para el módulo de Digitalización aplicada a los sectores productivos.**
+**Proyecto realizado por González Andrade, Ismael de 1ºDAW-A.**
 
 *Empresa ficticia creada con fines educativos. Los datos y objetivos de mejora son hipotéticos.*
